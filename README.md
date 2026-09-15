@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://docs.hyperlane.xyz/img/docusaurus-social-card.jpg"  />
-</div>
-
 # HyperlaneSoft
 Софт для автоматизации минта и прогона NFT по [бриджам](https://minter.merkly.com/hyperlane) проекта [Hyperlane](https://www.hyperlane.xyz/)
 
